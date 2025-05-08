@@ -1,3 +1,3 @@
 def hello():
-	print("hello, Gunu! Nice to meet you.")
+	print("hello, Jinu Go! Nice to meet you.")
 hello()
